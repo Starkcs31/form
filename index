@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Home</title>
+    <meta charset="utf-8" />
+    <link href="style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <header>
+        <ul>
+            <li>
+                <a class="active" href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="form.html">Registration</a>
+            </li>
+        </ul>
+    </header>
+    <h1><i>Hello HTML!!!</i></h1>
+    <h1 id="main">Hello HTML!!!</h1>
+    <h1 class="red-block">Hello HTML!!!</h1>
+    <h3>Hello HTML!!!</h3>
+    <h3><i>Hello HTML!!!</i></h3>
+    <h1 id="main-1">Hello HTML!!!</h1>
+    <a target="blank" href="https://www.google.com.ua/">
+        Go to google
+    </a>
+    <ol>
+        <li><a href="https://www.google.com.ua/">Field-1</a></li>
+        <li>Field-2</li>
+        <li>Field-3</li>
+    </ol>
+    <img src="logo.jpeg" alt="not image">
+    <table>
+        <thead>
+            <tr>
+                <th>№</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Count</th>
+                <th>Manufacture</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Product-1</td>
+                <td>500.00$</td>
+                <td>5</td>
+                <td>USA</td>
+            </tr>
+            <tr class="str">
+                <td>1</td>
+                <td>Product-1</td>
+                <td>500.00$</td>
+                <td>5</td>
+                <td>USA</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Product-1</td>
+                <td>500.00$</td>
+                <td>5</td>
+                <td>USA</td>
+            </tr>
+        </tbody>
+    </table>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quidem dolore quae, nam aliquid id voluptas,
+        sequi non suscipit ad ullam itaque et repudiandae quia, numquam nulla cum consequatur at.
+    </p>
+
+</body>
+
+</html>
